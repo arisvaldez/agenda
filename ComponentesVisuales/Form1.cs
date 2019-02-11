@@ -17,7 +17,7 @@ namespace ComponentesVisuales
         List<int> enteros = new List<int>();
         public Form1()
         {
-            pacientes.Add(new Paciente() {Id=45,Nombre="" });
+            pacientes.Add(new Paciente() {Id=45,Nombre="alex" });
             InitializeComponent();
         }
 
